@@ -23,3 +23,13 @@ width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https
     
  
 </table>
+
+
+# WDA_Project1_SmartWatch
+![image](https://user-images.githubusercontent.com/103193673/172147878-4f0096ee-5cd3-450d-822e-4aa77aa2f93b.png)
+
+# WDA_Project2_AI
+![image](https://user-images.githubusercontent.com/103193673/172147985-0b709864-3a37-4186-8a08-3bf59908844d.png)
+
+# WDA_Project3-Algorithm
+![image](https://user-images.githubusercontent.com/103193673/172147836-708d0799-252c-4a1e-9071-261302e91dcb.png)
