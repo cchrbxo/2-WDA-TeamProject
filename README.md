@@ -52,9 +52,10 @@ width="750px;"</a></td>
 <table>
   <tr>
     
-<td align="center"><a href="https://github.com/JminiLii/WDA_Project3-Algorithm"><img src="ttps://user-images.githubusercontent.com/103193673/172147836-708d0799-252c-4a1e-9071-261302e91dcb.png"
+<td align="center"><a href="https://github.com/JminiLii/WDA_Project3-Algorithm"><img src="https://user-images.githubusercontent.com/103193673/172147836-708d0799-252c-4a1e-9071-261302e91dcb.png"
 width="750px;"</a></td>
     </tr>                                                                             
  
 </table>
+
 
