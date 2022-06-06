@@ -26,6 +26,15 @@ width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https
 
 
 # WDA_Project1_SmartWatch
+
+<table>
+  <tr>
+    
+<td align="center"><a href="https://github.com/cchrbxo"><img src="[https://user-images.githubusercontent.com/103193673/166229655-8f296fae-d70e-4504-9c72-a2ee5ad2fa9d.png](https://user-images.githubusercontent.com/103193673/172147878-4f0096ee-5cd3-450d-822e-4aa77aa2f93b.pn)"
+ width="100px;"
+ 
+</table>
+
 ![image](https://user-images.githubusercontent.com/103193673/172147878-4f0096ee-5cd3-450d-822e-4aa77aa2f93b.png)
 
 # WDA_Project2_AI
