@@ -30,15 +30,31 @@ width="100px;" alt=""/><br /><sub><b>류송지</b></sub></a><br /><a href="https
 <table>
   <tr>
     
-<td align="center"><a href="https://github.com/cchrbxo"><img src="[https://user-images.githubusercontent.com/103193673/166229655-8f296fae-d70e-4504-9c72-a2ee5ad2fa9d.png](https://user-images.githubusercontent.com/103193673/172147878-4f0096ee-5cd3-450d-822e-4aa77aa2f93b.pn)"
- width="100px;"
+<td align="center"><a href="https://github.com/HONGBOY1/WDA_Project1_SmartWatch"><img src="https://user-images.githubusercontent.com/103193673/172147878-4f0096ee-5cd3-450d-822e-4aa77aa2f93b.png"
+width="750px;"</a></td>
+    </tr>                                                                             
  
 </table>
 
-![image](https://user-images.githubusercontent.com/103193673/172147878-4f0096ee-5cd3-450d-822e-4aa77aa2f93b.png)
 
 # WDA_Project2_AI
-![image](https://user-images.githubusercontent.com/103193673/172147985-0b709864-3a37-4186-8a08-3bf59908844d.png)
+<table>
+  <tr>
+    
+<td align="center"><a href="https://github.com/ryusongji/WDA_Project2_AI"><img src="https://user-images.githubusercontent.com/103193673/172147985-0b709864-3a37-4186-8a08-3bf59908844d.png"
+width="750px;"</a></td>
+    </tr>                                                                             
+ 
+</table>
 
 # WDA_Project3-Algorithm
-![image](https://user-images.githubusercontent.com/103193673/172147836-708d0799-252c-4a1e-9071-261302e91dcb.png)
+
+<table>
+  <tr>
+    
+<td align="center"><a href="https://github.com/JminiLii/WDA_Project3-Algorithm"><img src="ttps://user-images.githubusercontent.com/103193673/172147836-708d0799-252c-4a1e-9071-261302e91dcb.png"
+width="750px;"</a></td>
+    </tr>                                                                             
+ 
+</table>
+
