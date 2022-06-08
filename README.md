@@ -59,7 +59,7 @@ width="750px;"</a></td>
  
 </table>
 
-# 소통
+# 학습 공유
 ![KakaoTalk_20220608_101819622](https://user-images.githubusercontent.com/103085094/172510901-30366cfc-c279-49a1-95b1-13d70fd4d336.png)
 ![KakaoTalk_20220608_102055757](https://user-images.githubusercontent.com/103085094/172511253-a77a333b-a114-4028-a8a9-7af1658c0eb7.png)
 ![KakaoTalk_20220608_102147193](https://user-images.githubusercontent.com/103085094/172511268-0b83a1b7-5c9e-49e2-92e7-ca593285abb2.png)
